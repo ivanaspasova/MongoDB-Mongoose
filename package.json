@@ -1,0 +1,14 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "scraping a website",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraping"
+  ],
+  "author": "Ivana",
+  "license": "ISC"
+}
